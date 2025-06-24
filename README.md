@@ -15,10 +15,10 @@
 
 ## ✨ About Me
 
-- 🎓 Final-year **Computer Science** student at **PSNA College of Engineering and Technology**, Dindigul (2022–2026)
-- 💻 Passionate about **Full Stack Development**, crafting responsive and impactful web applications
-- 🚀 Currently building solutions with **React, Tailwind CSS, Flask, MongoDB**, and exploring **AI/ML integrations**
-- 🌱 Actively sharpening my DSA skills through consistent **LeetCode** practice
+- 🎓 Final-year **Computer Science** student at **PSNA College of Engineering and Technology**, Dindigul (2022–2026)  
+- 💻 Passionate about **Full Stack Development**, crafting responsive and impactful web applications  
+- 🚀 Currently building solutions with **React, Tailwind CSS, Flask, MongoDB**, and exploring **AI/ML integrations**  
+- 🌱 Actively sharpening my DSA skills through consistent **LeetCode** practice  
 
 ---
 
@@ -77,6 +77,26 @@ Generates and plays random music based on user mood
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparnaannadura&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🧠 LeetCode Board
+
+<p align="center">
+  <a href="https://leetcode.com/u/annaduraiaparna642/">
+    <img src="https://leetcard.jacoblin.cool/annaduraiaparna642?theme=dark&font=Baloo+Bhai+2&ext=contest" />
+  </a>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1lqC-e63iw1avS1HX4Kssm8kQX4ZTAPJn/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-%2300C853.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 ---
