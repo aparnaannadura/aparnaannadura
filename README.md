@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFA6&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Java%2C+React%2C+MongoDB;Currently+building+MERN+apps" alt="Typing SVG" />
 </p>
 
-<!-- Girl Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Girl coding animation" />
-</p>
-
 ---
 
 ## ✨ About Me
@@ -25,20 +20,25 @@
 
 ## 🛠️ Projects
 
+### 🔹 PCOSEASE – PCOS Wellness Tracker  
+Full-stack health tracker to monitor diet, exercise, and symptoms  
+**Tech:** React, Node.js, Express, MongoDB  
+→ Supports structured 7-day health logging & lifestyle insights
+
 ### 🔹 Smart PIN Code Validator  
 Extracts and verifies PIN codes from uploaded images  
 **Tech:** React, Flask, Python (OCR), MongoDB  
-→ Improved address entry accuracy and validation
+→ Automates address validation with 95% accuracy
 
 ### 🔹 AgriConnect – Agriculture Platform  
-MERN stack portal connecting farmers with schemes and products  
+Connects farmers to schemes, loans, and products  
 **Tech:** React, Express, MongoDB, Tailwind CSS  
-→ Helps streamline access to agri-services
+→ Simplifies agricultural resource discovery
 
 ### 🔹 Healthy Snacks Delivery App *(In Progress)*  
-Admin-based app for snack ordering & delivery with real-time tracking  
-**Tech:** React, Node.js, Express, MongoDB  
-→ Built with component-based architecture & responsive design
+Admin-based MERN app for snack ordering & delivery  
+**Tech:** React, Node.js, MongoDB, Tailwind CSS  
+→ Implements responsive UI and real-time updates
 
 ---
 
@@ -51,31 +51,26 @@ Admin-based app for snack ordering & delivery with real-time tracking
 </p>
 
 ---
-## 🛠 Tech Stack
 
-### 📚 Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 💻 Tech Stack
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Backend & Database  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠 Tools  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
-![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
